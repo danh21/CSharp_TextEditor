@@ -1,0 +1,28 @@
+D:\cd\C#\Project\CSharpProjects\Step06\editor\bin\Debug\editor.exe.config
+D:\cd\C#\Project\CSharpProjects\Step06\editor\bin\Debug\editor.exe
+D:\cd\C#\Project\CSharpProjects\Step06\editor\bin\Debug\editor.pdb
+D:\cd\C#\Project\CSharpProjects\Step06\editor\obj\Debug\editor.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step06\editor\obj\Debug\editor.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step06\editor\obj\Debug\editor.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step06\editor\obj\Debug\editor.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step06\editor\obj\Debug\editor.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step06\editor\obj\Debug\editor.exe
+D:\cd\C#\Project\CSharpProjects\Step06\editor\obj\Debug\editor.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\bin\Debug\editor.exe.config
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\bin\Debug\editor.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\bin\Debug\editor.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\obj\Debug\editor.csproj.AssemblyReference.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\obj\Debug\editor.Form1.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\obj\Debug\editor.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\obj\Debug\editor.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\obj\Debug\editor.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\Extras\editor\obj\Debug\editor.pdb
+D:\cd\C#\Project\CSharp_TextEditor\editor\bin\Debug\editor.exe.config
+D:\cd\C#\Project\CSharp_TextEditor\editor\bin\Debug\editor.exe
+D:\cd\C#\Project\CSharp_TextEditor\editor\bin\Debug\editor.pdb
+D:\cd\C#\Project\CSharp_TextEditor\editor\obj\Debug\editor.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_TextEditor\editor\obj\Debug\editor.Form1.resources
+D:\cd\C#\Project\CSharp_TextEditor\editor\obj\Debug\editor.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_TextEditor\editor\obj\Debug\editor.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_TextEditor\editor\obj\Debug\editor.exe
+D:\cd\C#\Project\CSharp_TextEditor\editor\obj\Debug\editor.pdb
