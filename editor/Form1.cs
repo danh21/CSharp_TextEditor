@@ -1,5 +1,6 @@
 using System;
 using System.ComponentModel;
+using System.IO;
 using System.Windows.Forms;
 
 
@@ -196,6 +197,7 @@ namespace editor
         {
             openFile1.DefaultExt = "txt";
             openFile1.Filter = "Text files (*.txt)|*.txt|RTF Files (*.rtf)|*.rtf";
+            openFile1.InitialDirectory = Path.GetDirectoryName(Application.StartupPath + "\\test\\");
 
             if (openFile1.ShowDialog() == DialogResult.OK && openFile1.FileName.Length > 0)
             {
@@ -213,6 +215,7 @@ namespace editor
         {
             saveFile1.DefaultExt = "rtf";
             saveFile1.Filter = "RTF Files (*.rtf)|*.rtf|Text files (*.txt)|*.txt";
+            saveFile1.InitialDirectory = Path.GetDirectoryName(Application.StartupPath + "\\test\\");
 
             if (saveFile1.ShowDialog() == DialogResult.OK && saveFile1.FileName.Length > 0)
             {
